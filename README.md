@@ -4,6 +4,6 @@ The purpose of our code is to answer the following question...What platform is b
 
 We broke this down in to the below:
 * Which streaming platform provides the most diverse selection of genres, and movie ratings?
-* Which platform has the most movies accessible to the most countries?
+* Which platform has the most and best movies
 * Which streaming platform is the most popular based on movie ratings?
 * Which factors (decade, movie length) impact the movie rating the most?
